@@ -177,7 +177,7 @@ backgroundImage = new Image();
 backgroundImage.src = 'bg.png';
 
 birdImage = new Image();
-birdImage.src = 'bird.png';
+birdImage.src = 'Snapchat-612925061 (1).png';
 
 pipeImage = new Image();
 pipeImage.src = 'pipe.png';
